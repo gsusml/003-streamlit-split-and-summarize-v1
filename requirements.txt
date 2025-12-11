@@ -2,4 +2,5 @@ streamlit
 langchain
 langchain-classic
 langchain-groq
+transformers
 pypdf
